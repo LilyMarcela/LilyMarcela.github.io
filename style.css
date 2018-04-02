@@ -40,6 +40,7 @@ h1{ font-weight: 700;
 
 .button {
     background-color: #DB3030;
+    border-radius: 5px;
     border: none;
     color: white;
     font-weight: 700;
@@ -47,5 +48,5 @@ h1{ font-weight: 700;
     text-align: center;
     display: inline-block;
     margin: 4px 2px;
-    border-radius: 5px;
-} 
+}
+
